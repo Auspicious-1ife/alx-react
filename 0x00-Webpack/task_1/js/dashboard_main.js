@@ -1,5 +1,6 @@
 import $ from 'jquery';
 import _ from 'lodash';
+import '../css/main.css';
 
 // Function to update the counter
 let count = 0;
