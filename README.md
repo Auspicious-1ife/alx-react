@@ -1,0 +1,2 @@
+This repository serves as an in-depth introduction to React fundamentals for the ALX Software Engineering curriculum, covering core concepts such as building reusable components, managing application state with hooks, navigating with React Router, and integrating external APIs to create dynamic, interactive user interfaces.
+A foundational project in the ALX Software Engineering curriculum, introducing essential React concepts like components, hooks, routing, and API handling.
